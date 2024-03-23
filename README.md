@@ -37,6 +37,10 @@ EDA involves exploring student score data to answer key questions such as:
 - What is the distribution of career aspirations among students, and does it vary based on gender? Are there any trends or patterns in career choices?
 - How does the number of absence days correlate with students' academic performance? Are students with higher absence rates more likely to have lower scores?
 
+ ![caoture](capture.PNG)
+![Capture](https://github.com/Libasnski/student-score/assets/160238558/38307ae2-9842-485b-9b21-d24210366d58)
+
+
 
 ### Data Analysis
 Here is my data analysis codes to answer questions:
@@ -75,6 +79,8 @@ group by
     part_time_job,
     gender
 ```
+![capture1](capture1.png)
+![Capture1](https://github.com/Libasnski/student-score/assets/160238558/f8624c87-a33c-45de-8d9b-7d84dd382043)
 
 ```sql
 select
